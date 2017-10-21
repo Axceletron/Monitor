@@ -1,3 +1,3 @@
 
-sc create Pythonapp binPath= "C:\Python\Python36\Python.exe --C:\Script\Monitor.py"
-net start Pythonapp
+cd C:\Script\Monitor.py
+python Monitor.py
