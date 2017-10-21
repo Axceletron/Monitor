@@ -1,0 +1,9 @@
+version: 0.0
+os: windows
+files:
+  - source: \monitor.py
+    destination: C:\Script
+hooks:
+  AfterInstall:
+    - location: \after-install.bat
+      timeout: 900
