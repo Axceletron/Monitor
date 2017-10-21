@@ -1,3 +1,3 @@
 
-cd C:\Script\Monitor.py
+cd C:\Script
 python Monitor.py
